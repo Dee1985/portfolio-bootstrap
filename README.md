@@ -24,7 +24,7 @@ Installation: No installation required.
 
 Contributions: A lot of Google Fu!
 
-Challenges: Letting Bootstrap do the work and realizing that I was complicating certain issues by attempting to use CSS instead of referring to Bootstrap documentation. In the project instructions, there was a designated pixel width for the content area. I found this confusing and struggled with this part of the assignment. Per documentation, hard coding data like width and height would make things less responsive, so I did not do this. Every attempt at setting the pixel width of the main content section resulted in a non-responsive app.
+Challenges: Letting Bootstrap do the work and realizing that I was complicating certain issues by attempting to use CSS instead of referring to Bootstrap documentation.
 
 Successes: The site is responsive.
 
